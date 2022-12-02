@@ -1,0 +1,224 @@
+2022-04-03T22:19:56.994Z [store-api] error POST  - Todos os campos são obrigatórios
+2022-04-04T01:07:27.180Z [store-api] info POST /client - {"name":"Juliana","cpf":"111-111-111-11","phone":"123456789","email":"juliana@email.com","address":"Rua teste"}
+2022-04-04T01:16:10.709Z [store-api] info POST /client - {"name":"Juliana 2","cpf":"111-111-111-11","phone":"123456789","email":"juliana@email.com","address":"Rua teste"}
+2022-04-04T01:32:24.432Z [store-api] info POST /client - {"name":"Juliana 2","cpf":"111-111-111-11","phone":"123456789","email":"juliana@email.com","address":"Rua teste"}
+2022-04-04T01:33:03.904Z [store-api] error POST  - aaaaa
+2022-04-04T01:44:24.747Z [store-api] error GET  - client is not defined
+2022-04-04T01:52:56.948Z [store-api] error GET  - client is not defined
+2022-04-04T01:53:01.512Z [store-api] error GET  - client is not defined
+2022-04-04T01:59:30.073Z [store-api] error GET  - client is not defined
+2022-04-04T02:09:38.200Z [store-api] error DELETE  - client is not defined
+2022-04-04T02:09:46.016Z [store-api] error GET  - client is not defined
+2022-04-04T02:09:49.558Z [store-api] error GET  - client is not defined
+2022-04-04T02:49:05.109Z [store-api] error GET  - client is not defined
+2022-04-04T02:49:26.530Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T02:50:01.688Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T02:52:11.334Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T03:38:41.309Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T03:38:59.118Z [store-api] error GET  - supplier is not defined
+2022-04-04T03:39:09.275Z [store-api] error GET  - supplier is not defined
+2022-04-04T03:39:12.241Z [store-api] error GET  - supplier is not defined
+2022-04-04T03:39:35.437Z [store-api] error DELETE  - client is not defined
+2022-04-04T03:39:43.204Z [store-api] error DELETE  - supplier is not defined
+2022-04-04T03:39:46.728Z [store-api] error GET  - supplier is not defined
+2022-04-04T03:40:25.020Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T03:40:34.002Z [store-api] error PUT  - Todos os campos são obrigatórios
+2022-04-04T03:40:46.505Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T03:40:49.604Z [store-api] error GET  - supplier is not defined
+2022-04-04T21:32:37.226Z [store-api] error GET  - supplier is not defined
+2022-04-04T21:33:48.692Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T21:35:06.255Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T21:36:09.886Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2022-04-04T21:38:32.622Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T21:38:42.488Z [store-api] error GET  - product is not defined
+2022-04-04T21:38:51.074Z [store-api] error GET  - product is not defined
+2022-04-04T21:38:57.149Z [store-api] error DELETE  - product is not defined
+2022-04-04T21:39:02.042Z [store-api] error GET  - product is not defined
+2022-04-04T21:46:19.820Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2022-04-04T21:46:51.486Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2022-04-04T21:47:19.368Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2022-04-04T21:47:37.678Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2022-04-04T21:47:58.552Z [store-api] error POST  - supplier id invalido
+2022-04-04T21:48:26.811Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T21:48:47.026Z [store-api] error PUT  - supplier id invalido
+2022-04-04T22:16:44.518Z [store-api] error POST  - Todos os campos são obrigatórios
+2022-04-04T22:17:27.250Z [store-api] error POST  - supplier id invalido
+2022-04-04T22:18:06.430Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T22:18:48.489Z [store-api] error PUT  - Todos os campos são obrigatórios
+2022-04-04T22:18:54.609Z [store-api] error PUT  - Todos os campos são obrigatórios
+2022-04-04T22:20:25.169Z [store-api] error PUT  - Todos os campos são obrigatórios
+2022-04-04T22:20:47.203Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T22:20:55.640Z [store-api] error GET  - sale is not defined
+2022-04-04T22:21:09.540Z [store-api] error GET  - sale is not defined
+2022-04-04T22:21:13.077Z [store-api] error GET  - sale is not defined
+2022-04-04T22:21:21.906Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T22:21:25.375Z [store-api] error GET  - sale is not defined
+2022-04-04T22:21:28.809Z [store-api] error DELETE  - sale is not defined
+2022-04-04T22:21:32.254Z [store-api] error GET  - sale is not defined
+2022-04-04T22:28:56.201Z [store-api] error POST  - passe client_id e product_id
+2022-04-04T22:29:02.055Z [store-api] error POST  - passe client_id e product_id
+2022-04-04T22:29:55.041Z [store-api] error PUT  - passe client_id e product_id
+2022-04-04T22:30:00.739Z [store-api] error PUT  - passe client_id e product_id
+2022-04-04T22:44:27.439Z [store-api] error GET  - product is not defined
+2022-04-04T22:44:43.124Z [store-api] error POST  - Cannot access 'sale' before initialization
+2022-04-04T22:45:23.457Z [store-api] error POST  - Cannot access 'sale' before initialization
+2022-04-04T22:46:22.298Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T22:46:30.344Z [store-api] error GET  - product is not defined
+2022-04-04T22:46:41.506Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T22:46:47.506Z [store-api] error GET  - product is not defined
+2022-04-04T22:47:07.303Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T22:47:08.172Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T22:47:09.815Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T22:47:11.004Z [store-api] error POST  - produto sem estoque
+2022-04-04T22:47:16.954Z [store-api] error GET  - product is not defined
+2022-04-04T22:54:05.752Z [store-api] error DELETE  - Cannot read property 'product_id' of undefined
+2022-04-04T22:54:28.900Z [store-api] error DELETE  - Cannot read property 'product_id' of undefined
+2022-04-04T22:54:45.503Z [store-api] error GET  - sale is not defined
+2022-04-04T22:54:51.284Z [store-api] error DELETE  - sale is not defined
+2022-04-04T22:54:56.205Z [store-api] error GET  - product is not defined
+2022-04-04T22:57:35.372Z [store-api] error DELETE  - sale_id não existe
+2022-04-04T23:01:09.589Z [store-api] error GET  - sale is not defined
+2022-04-04T23:01:21.966Z [store-api] error PUT  - passe client_id e product_id
+2022-04-04T23:02:03.356Z [store-api] error POST  - supplier id invalido
+2022-04-04T23:02:10.232Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T23:02:13.470Z [store-api] error GET  - product is not defined
+2022-04-04T23:02:28.239Z [store-api] error PUT  - passe client_id e product_id
+2022-04-04T23:02:38.162Z [store-api] error PUT  - could not determine data type of parameter $4
+2022-04-04T23:03:03.911Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T23:11:48.643Z [store-api] error GET  - sale is not defined
+2022-04-04T23:12:01.263Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T23:12:04.594Z [store-api] error GET  - sale is not defined
+2022-04-04T23:12:21.970Z [store-api] error GET  - sale is not defined
+2022-04-04T23:12:28.755Z [store-api] error GET  - sale is not defined
+2022-04-04T23:56:00.412Z [store-api] error POST  - Todos os campos são obrigatórios
+2022-04-04T23:56:45.766Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-04T23:59:38.198Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-05T00:00:44.842Z [store-api] error DELETE  - proprietario is not defined
+2022-04-05T00:01:58.536Z [store-api] error GET  - proprietario is not defined
+2022-04-05T00:02:24.475Z [store-api] error GET  - proprietario is not defined
+2022-04-05T00:09:41.029Z [store-api] error POST  - Todos os campos são obrigatórios
+2022-04-05T00:10:42.948Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-05T00:13:44.084Z [store-api] error PUT  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-05T00:14:02.230Z [store-api] error GET  - animal is not defined
+2022-04-05T00:14:07.734Z [store-api] error GET  - animal is not defined
+2022-04-05T00:14:11.605Z [store-api] error GET  - animal is not defined
+2022-04-05T00:14:30.653Z [store-api] error DELETE  - animal is not defined
+2022-04-05T00:14:34.237Z [store-api] error GET  - animal is not defined
+2022-04-05T00:18:13.720Z [store-api] error GET  - animal is not defined
+2022-04-05T00:18:22.211Z [store-api] error GET  - animal is not defined
+2022-04-05T00:18:29.496Z [store-api] error GET  - animal is not defined
+2022-04-05T00:18:38.517Z [store-api] error GET  - animal is not defined
+2022-04-05T00:18:48.973Z [store-api] error GET  - animal is not defined
+2022-04-05T00:20:44.282Z [store-api] error POST  - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2022-04-05T00:20:49.393Z [store-api] error GET  - animal is not defined
+2022-04-05T00:21:03.324Z [store-api] error GET  - animal is not defined
+2022-04-05T00:21:31.268Z [store-api] error GET  - animal is not defined
+2022-04-05T00:21:39.010Z [store-api] error GET  - proprietario is not defined
+2022-04-05T00:22:52.736Z [store-api] error GET  - animal is not defined
+2022-04-05T00:22:59.587Z [store-api] error GET  - proprietario is not defined
+2022-04-05T00:23:18.911Z [store-api] error DELETE  - animal is not defined
+2022-04-05T00:23:33.568Z [store-api] error GET  - animal is not defined
